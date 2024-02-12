@@ -1,3 +1,3 @@
 #Spotify app clone
 <br>
-used html,cssand javascript
+used html,css and javascript
